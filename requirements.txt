@@ -5,3 +5,5 @@ python-dotenv
 requests
 smartapi-python
 pyotp
+kiteconnect
+streamlit-autorefresh
